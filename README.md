@@ -1,42 +1,88 @@
 # Saqib Akram
 
-Software Engineer focused on building reliable products, scalable systems, and clean developer workflows.
+Lead Developer | Technical Lead | Head of Data | Backend & API Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saqib--akram-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqib-akram)
-[![GitHub](https://img.shields.io/badge/GitHub-ithubdeveloper-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ithubdeveloper)
+Greater Bristol Area, United Kingdom  
+LinkedIn: [www.linkedin.com/in/saqib-akram](https://www.linkedin.com/in/saqib-akram)  
+GitHub: [github.com/ithubdeveloper](https://github.com/ithubdeveloper)
 
-## Professional Summary
+## Professional Profile
 
-I design and build software that is practical, maintainable, and production-ready. My focus is delivering measurable outcomes through strong architecture, clean implementation, and collaborative execution.
+Experienced full-stack developer with 10+ years in software engineering, with deep specialization in backend development using PHP. I build robust web applications and cross-platform solutions for B2B and B2C products, covering the full delivery lifecycle from discovery and architecture through development, testing, deployment, and optimization.
 
-## Core Competencies
+My work combines technical leadership with business impact, including e-commerce delivery, API-driven integrations, DevOps practices, and SEO/analytics-driven performance improvements.
 
-- Backend and API development
-- Modern web application development
-- System design and scalability
-- Performance optimization
-- Code quality and engineering standards
-- Team collaboration and delivery ownership
+## Core Expertise
 
-## Technology Stack
+- Backend and API Engineering (PHP, Symfony, Laravel)
+- Technical Leadership and Team Management
+- E-Commerce Platforms and Integrations
+- WordPress Development and Customization
+- DevOps and Delivery Workflows
+- Data and Analytics (Google Analytics, tracking, reporting)
+- Web Performance, SEO, and Marketing-aligned engineering
 
-- Languages: JavaScript, TypeScript, Python
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express
-- Data: PostgreSQL, MongoDB
-- DevOps and Tools: Docker, Git, GitHub
+## Experience
 
-## Current Focus
+### Wired Media — PHP Web Developer
+Aug 2020 to Present | Bristol, England, United Kingdom (Hybrid)
 
-- Building production-grade applications with clear business value
-- Improving architecture and maintainability in growing codebases
-- Applying AI-assisted workflows to speed up delivery without lowering quality
+- Developed and maintained web applications across Hospitality, Construction, Retail/eCommerce, Education, Healthcare, and Technology sectors.
+- Delivered tailored solutions that improved client satisfaction and reliability.
+- Led implementation of SEO and marketing-focused technical improvements to increase visibility and engagement.
 
-## Featured Links
+### Vistabit Technologies — Software Engineer Technical Lead
+Jun 2018 to Jul 2020 | Faisalabad (On-site)
 
-- LinkedIn: [linkedin.com/in/saqib-akram](https://www.linkedin.com/in/saqib-akram)
-- GitHub: [github.com/ithubdeveloper](https://github.com/ithubdeveloper)
+- Led a multidisciplinary team of 10 developers and designers.
+- Owned technical delivery from client communication through deployment.
+- Improved delivery speed and quality through better engineering practices.
 
-## Contact
+### Vistabit Technologies — Senior Software Engineer
+Jun 2015 to May 2018 | Faisalabad
 
-For collaboration opportunities, connect with me on LinkedIn.
+- Built full-stack applications across e-commerce, accounting, and client management domains.
+- Delivered API integrations including Google, Salesforce, Amazon, and payment gateways.
+- Developed cross-platform mobile apps using Cordova/PhoneGap.
+
+### Vistabit Technologies — Software Engineer
+Oct 2013 to May 2015 | Faisalabad, Pakistan (On-site)
+
+- Delivered PHP-based web applications and CMS/e-commerce solutions.
+- Led project execution, timelines, and production-quality releases.
+- Implemented SEO and performance optimizations for business growth.
+
+### Tauseef Enterprises — Junior Software Engineer (Internship)
+Mar 2012 to Aug 2012 | Faisalabad
+
+- Contributed to an Online Complaint Management System for Anti-Corruption Faisalabad.
+- Implemented complaint workflows, role-based handling, and status notifications.
+
+## Education
+
+### Birmingham City University
+MSc, Advanced Computer Science (2020 to 2021)  
+Grade: Distinction (A)
+
+### Government College University, Faisalabad
+BSc, Computer Science (2008 to 2012)  
+Grade: A (3.34/4.0)
+
+## Certification
+
+- Google Analytics Certification — Google Digital Academy (Skillshop), 2024
+
+## Selected Projects
+
+- **Chattywagon** (2017 to 2020): Ride-sharing application for city transport use cases.
+- **ONEzoo iOS and Android App** (2015 to 2019): Supplier aggregation platform with intuitive mobile experience.
+
+## Leadership and Collaboration
+
+- Recognized as a strong technical leader and team player by colleagues.
+- Known for reliable delivery, clear communication, and calm execution in high-pressure environments.
+
+## Languages
+
+- English (Full professional proficiency)
+- Hindi (Professional working proficiency)
